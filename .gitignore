@@ -1,0 +1,15 @@
+# Rust build artifacts
+target/
+**/*.rs.bk
+
+# Cargo lockfile (if your project is a library)
+Cargo.lock
+
+# IDE settings (VSCode, JetBrains系, etc.)
+.idea/
+.vscode/
+*.iml
+
+# OS関連
+.DS_Store
+Thumbs.db
